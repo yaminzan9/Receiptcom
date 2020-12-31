@@ -1,0 +1,31 @@
+
+ganeral container code 
+
+                <div class="container " >
+                    <div class="row " >
+                        
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-sx-12">
+
+                            </div>
+                    </div>
+                </div>
+
+
+genarel part header 
+
+
+HTML code       <div class="head-eachpart" >WHY RECEIPTCOM<div class="underline" ></div></div>
+CSS style        .head-eachpart {
+                        border: 0px solid red;
+                        padding: 20px 0px;
+                        text-align: center;
+                        text-transform: uppercase;
+                        font-size: 50px;
+                        margin: 100px 0px;
+                    }
+                    .underline {
+                        border: 2px solid rgb(47, 2, 56);
+                        width: 100px;
+                        margin: 10px auto;
+                        
+                    }
